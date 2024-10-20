@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+img {
+    margin-left: 20px;
+    margin-top: 25px;
+    cursor: pointer;
+}
+
+.home {
+    margin-top: -55px;
+    margin-left: 650px;
+    cursor: pointer;
+   
+}
+
+.home img {
+    width: 35px;
+    cursor: pointer;
+}
+
+.search {
+    margin-left: 720px;
+    margin-top: -40px;
+}
+
+.search input {
+    border-radius: 80px 80px 80px 80px;
+    padding: 10px 10px 10px 70px;
+    font-size: 20px;
+    border-color: #576aff;
+}
+
+ i {
+    margin-left: 550px;
+    margin-top: -100px;
+}
