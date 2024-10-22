@@ -27,6 +27,7 @@ img {
 .search {
     margin-left: 720px;
     margin-top: -40px;
+   
 }
 
 .search input {
@@ -177,7 +178,7 @@ img {
 }
 
 .sabun2 {
-    margin-left: 590px;
+    margin-left: 570px;
    font-size: 18px;
     font-weight: 600;
     margin-top: -10px;
@@ -186,11 +187,11 @@ img {
 
 .snacks {
     margin-top: -290px;
-    margin-left: 900px;
+    margin-left: 910px;
 }
 
 .snacks2 {
-    margin-left: 990px;
+    margin-left: 1000px;
     font-size: 18px;
      font-weight: 600;
      margin-top: 18px;
@@ -202,7 +203,7 @@ img {
 }
 
 .oil2 {
-    margin-left: 1390px;
+    margin-left: 1370px;
     font-size: 18px;
      font-weight: 600;
      margin-top: 5px;
@@ -229,6 +230,86 @@ img {
 .sauce2 {
     font-size: 18px;
     font-weight: 600;
+    margin-left: 570px;
+    margin-top: 15px;
+}
+
+.bundles {
+    margin-top:  -280px;
+    margin-left: 920px;
+}
+
+.bundles2 {
+    font-size: 18px;
+    font-weight: 600;
+    margin-left: 980px;
+    margin-top: 5px;
+}
+
+
+.personal {
+    margin-top:  -280px;
+    margin-left: 1320px;
+}
+
+
+.personal2 {
+    font-size: 18px;
+    font-weight: 600;
+    margin-left: 1390px;
+    margin-top: 5px;
+}
+
+.special {
+    margin-left: 80px;
+    margin-top: 60px;
+}
+
+.special2 {
+    font-size: 18px;
+    font-weight: 600;
+    margin-left: 130px;
+    margin-top: 15px;
+}
+
+
+.masala {
+    margin-top:  -280px;
+    margin-left: 500px;
+}
+
+
+
+.masala2 {
+    font-size: 18px;
+    font-weight: 600;
     margin-left: 580px;
     margin-top: 15px;
+}
+
+
+.bake {
+    margin-top:  -280px;
+    margin-left: 930px;
+}
+
+.bake2 {
+    font-size: 18px;
+    font-weight: 600;
+    margin-left: 1010px;
+    margin-top: 5px;
+}
+
+
+.clean {
+    margin-top:  -280px;
+    margin-left: 1320px;
+}
+
+
+.clean2 {
+    font-size: 18px;
+    font-weight: 600;
+    margin-left: 1390px;
+    margin-top: 5px;
 }
