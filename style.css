@@ -1,7 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
 }
 
 img {
@@ -34,7 +36,199 @@ img {
     border-color: #576aff;
 }
 
+.search input:hover{
+    border-radius: yellow;
+}
+
  i {
     margin-left: 550px;
     margin-top: -100px;
+}
+
+.order {
+    margin-left: 1350px;
+    margin-top: -35px;
+    cursor: pointer;
+}
+
+.icon {
+    margin-left: 810px;
+    margin-top: -55px;
+    
+}
+
+.icon i {
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.order2 {
+    margin-left: 1450px;
+    margin-top: 4.50px;
+    cursor: pointer;
+}
+
+.icon2 {
+    margin-left: 1435px;
+    margin-top: -82px;
+    cursor: pointer;
+}
+
+.icon2 img {
+    cursor: pointer;
+}
+
+.order3 {
+    margin-left: 1535px;
+    margin-top: 6px;
+    cursor: pointer;
+}
+
+.icon3 {
+    margin-left: 995px;
+    margin-top: -60px;
+    cursor: pointer;
+}
+
+.icon3 {
+    font-size: 22px;
+}
+
+.deal img {
+    width: 90%;
+    align-items: center;
+    justify-content: center;
+    margin-left: 100px;
+    margin-top: 80px;
+}
+
+.categories {
+    margin-left: 110px;
+    margin-top: 80px;
+    font-size: 1.50rem;
+    font-weight: 600;
+}
+
+.flash {
+    margin-left: 100px;
+}
+
+.para {
+    margin-left: 160px;
+    margin-top: -10px;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.westpoint {
+    margin-left: 500px;
+    margin-top: -260px;
+}
+
+.para2 {
+    margin-left: 580px;
+    margin-top: 5px;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+
+.Phal {
+    margin-left: 890px;
+    margin-top: -260px;
+}
+
+
+.phal2 {
+    margin-left: 970px;
+    margin-top: 1px;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+
+.breakfast {
+    margin-left: 1290px;
+    margin-top: -290px;
+}
+
+.breakfast2 {
+    margin-left: 1360px;
+    margin-top: 1px;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.anaaj {
+    margin-top: 50px;
+    margin-left: 90px;
+}
+
+.anaaj2 {
+   
+   margin-left: 170px;
+   font-size: 18px;
+    font-weight: 600;
+}
+
+.sabun {
+    margin-top: -290px;
+    margin-left: 500px;
+}
+
+.sabun2 {
+    margin-left: 590px;
+   font-size: 18px;
+    font-weight: 600;
+    margin-top: -10px;
+}
+
+
+.snacks {
+    margin-top: -290px;
+    margin-left: 900px;
+}
+
+.snacks2 {
+    margin-left: 990px;
+    font-size: 18px;
+     font-weight: 600;
+     margin-top: 18px;
+}
+
+.oil {
+    margin-top: -290px;
+    margin-left: 1300px;
+}
+
+.oil2 {
+    margin-left: 1390px;
+    font-size: 18px;
+     font-weight: 600;
+     margin-top: 5px;
+}
+
+.drink {
+    margin-top: 60px;
+    margin-left: 80px;
+}
+
+.drink2 {
+    font-size: 18px;
+    font-weight: 600;
+    margin-left: 150px;
+    margin-top: 15px;
+}
+
+.sauce {
+    margin-top:  -280px;
+    margin-left: 500px;
+}
+
+
+.sauce2 {
+    font-size: 18px;
+    font-weight: 600;
+    margin-left: 580px;
+    margin-top: 15px;
 }
