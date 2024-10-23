@@ -26,19 +26,23 @@ img {
 
 .search {
     margin-left: 720px;
-    margin-top: -40px;
+    margin-top: -43px;
+    cursor: pointer;
    
 }
 
 .search input {
     border-radius: 80px 80px 80px 80px;
-    padding: 10px 10px 10px 70px;
+    padding: 10px 120px 10px 60px;
     font-size: 20px;
     border-color: #576aff;
+    outline-color: #f9c338;
+  
+   
 }
 
-.search input:hover{
-    border-radius: yellow;
+.search input:hover {
+   
 }
 
  i {
